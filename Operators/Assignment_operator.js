@@ -1,0 +1,11 @@
+let a=8;
+let b=6;
+console.log("Assignment Operator");
+a+=6;
+b-=3;
+a*=9;
+b/=4;
+console.log("a =",a);
+console.log("b =",b);
+console.log("a =",a);
+console.log("b =",b);

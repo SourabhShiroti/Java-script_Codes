@@ -1,0 +1,23 @@
+.btn1{
+    height: 50px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border: 1px,solid,white;
+}
+
+.btn2{
+    height: 50px;
+    width: 100px;
+    color:black;
+    background-color: white;
+    border: 1px,solid,black;
+}
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px,solid,darkslateblue;
+}

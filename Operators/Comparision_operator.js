@@ -1,0 +1,9 @@
+let x=6;
+let y=3;
+console.log("Comparision Operator");
+console.log("x==y ",x==y);
+console.log("x!=y ",x!=y);
+console.log("x>y ",x>y);
+console.log("x<y ",x<y);
+console.log("x>=y ",x>=y);
+console.log("x<=y ",x<=y);

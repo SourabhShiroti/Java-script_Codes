@@ -1,0 +1,15 @@
+console.log("Variables in Java-script");
+let FullName="Dwanke Francis";
+let full_name="Mr Attitude";
+let age=25;
+let price=45000;
+let isFollow=true;
+let branch="Electrical Engineering";
+let x;
+let y=null;
+console.log(FullName);
+console.log(full_name);
+console.log(age);
+console.log(isFollow);
+console.log(price);
+console.log(branch);
